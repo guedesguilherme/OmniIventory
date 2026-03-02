@@ -1,0 +1,13 @@
+# .NET
+bin/
+obj/
+appsettings.Development.json
+
+# Next.js
+omni-inventory-web/node_modules/
+omni-inventory-web/.next/
+omni-inventory-web/.env*.local
+
+# OS Files
+.DS_Store
+Thumbs.db

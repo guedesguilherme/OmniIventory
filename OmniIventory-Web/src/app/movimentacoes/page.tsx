@@ -1,6 +1,6 @@
 import React from "react";
 import { Input } from "@/components/ui/input";
-import { getMovements, getProducts, getLocations } from "@/services/mockApi";
+import { getMovements, getProducts, getLocations } from "@/services/api";
 import { MovementTable } from "@/components/movimentacoes/MovementTable";
 import { Search } from "lucide-react";
 import { OutboundSheet } from "@/components/movimentacoes/OutboundSheet";

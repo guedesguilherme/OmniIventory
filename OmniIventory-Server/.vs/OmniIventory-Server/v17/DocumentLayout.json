@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\controllers\\movementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\controllers\\movementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Migrations\\20260308231025_AddControlaSerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OmniInventory.Infrastructure\\Migrations\\20260308231025_AddControlaSerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DD9301-C9F6-4DD0-AB55-2EF90D8FC298}|OmniInventory.Domain\\OmniInventory.Domain.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.domain\\entities\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DD9301-C9F6-4DD0-AB55-2EF90D8FC298}|OmniInventory.Domain\\OmniInventory.Domain.csproj|solutionrelative:omniinventory.domain\\entities\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FB05A2-2BD5-43AD-A436-7940D7CB68AA}|OmniInventory.Application\\OmniInventory.Application.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.application\\omniinventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7FB05A2-2BD5-43AD-A436-7940D7CB68AA}|OmniInventory.Application\\OmniInventory.Application.csproj|solutionrelative:omniinventory.application\\omniinventory.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1DF21F-BE9A-4FA8-A460-9B615F72D8E0}|OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1DF21F-BE9A-4FA8-A460-9B615F72D8E0}|OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj|solutionrelative:omniinventory.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\omniinventory.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\omniinventory.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\omniinventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\omniinventory.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\services\\dummycurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\services\\dummycurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FB05A2-2BD5-43AD-A436-7940D7CB68AA}|OmniInventory.Application\\OmniInventory.Application.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FB05A2-2BD5-43AD-A436-7940D7CB68AA}|OmniInventory.Application\\OmniInventory.Application.csproj|solutionrelative:omniinventory.application\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Migrations\\20260308162337_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OmniInventory.Infrastructure\\Migrations\\20260308162337_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70FFA6DC-73AD-4CD0-BFEC-36CC01851629}|OmniInventory.Api\\OmniInventory.Api.csproj|solutionrelative:omniinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1DF21F-BE9A-4FA8-A460-9B615F72D8E0}|OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj|c:\\users\\lrtech.guilherme\\desktop\\_\\omniiventory\\omniiventory-server\\omniinventory.infrastructure\\omniinventory.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D1DF21F-BE9A-4FA8-A460-9B615F72D8E0}|OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj|solutionrelative:omniinventory.infrastructure\\omniinventory.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OmniInventory.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T00:44:33.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovementsController.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Controllers\\MovementsController.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\Controllers\\MovementsController.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Controllers\\MovementsController.cs",
+              "RelativeToolTip": "OmniInventory.Api\\Controllers\\MovementsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T20:36:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OmniInventory.Application",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Application\\OmniInventory.Application.csproj",
+              "RelativeDocumentMoniker": "OmniInventory.Application\\OmniInventory.Application.csproj",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Application\\OmniInventory.Application.csproj",
+              "RelativeToolTip": "OmniInventory.Application\\OmniInventory.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T16:25:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OmniInventory.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:28:26.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Application\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Application\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "OmniInventory.Application\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:25:31.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Program.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Program.cs",
+              "RelativeToolTip": "OmniInventory.Api\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:48:46.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260308231025_AddControlaSerial.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Migrations\\20260308231025_AddControlaSerial.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Infrastructure\\Migrations\\20260308231025_AddControlaSerial.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Migrations\\20260308231025_AddControlaSerial.cs",
+              "RelativeToolTip": "OmniInventory.Infrastructure\\Migrations\\20260308231025_AddControlaSerial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T23:10:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260308162337_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Migrations\\20260308162337_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Infrastructure\\Migrations\\20260308162337_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Migrations\\20260308162337_InitialCreate.cs",
+              "RelativeToolTip": "OmniInventory.Infrastructure\\Migrations\\20260308162337_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:23:37.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Domain\\Entities\\Movement.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Domain\\Entities\\Movement.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Domain\\Entities\\Movement.cs",
+              "RelativeToolTip": "OmniInventory.Domain\\Entities\\Movement.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:44:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OmniInventory.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:47:31.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OmniInventory.Api",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\OmniInventory.Api.csproj",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\OmniInventory.Api.csproj",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\OmniInventory.Api.csproj",
+              "RelativeToolTip": "OmniInventory.Api\\OmniInventory.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T17:56:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OmniInventory.Api",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\OmniInventory.Api.csproj",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\OmniInventory.Api.csproj",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\OmniInventory.Api.csproj",
+              "RelativeToolTip": "OmniInventory.Api\\OmniInventory.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T15:50:23.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DummyCurrentUserService.cs",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Services\\DummyCurrentUserService.cs",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\Services\\DummyCurrentUserService.cs",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\Services\\DummyCurrentUserService.cs",
+              "RelativeToolTip": "OmniInventory.Api\\Services\\DummyCurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T16:26:46.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "OmniInventory.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Api\\appsettings.json",
+              "RelativeToolTip": "OmniInventory.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-08T15:48:28.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OmniInventory.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\lrtech.guilherme\\Desktop\\_\\OmniIventory\\OmniIventory-Server\\OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj",
+              "RelativeToolTip": "OmniInventory.Infrastructure\\OmniInventory.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T15:47:13.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { getProducts } from "@/services/mockApi";
+import { getProducts } from "@/services/api";
 import { ProductTable } from "@/components/produtos/ProductTable";
 import { Input } from "@/components/ui/input";
 import { AddProductSheet } from "@/components/produtos/AddProductSheet";

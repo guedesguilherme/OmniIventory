@@ -1,6 +1,6 @@
 import React from "react";
 import { Input } from "@/components/ui/input";
-import { getMaintenanceItems } from "@/services/mockApi";
+import { getMaintenanceItems } from "@/services/api";
 import { MaintenanceTable } from "@/components/manutencao/MaintenanceTable";
 import { Search } from "lucide-react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";

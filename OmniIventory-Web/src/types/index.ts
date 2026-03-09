@@ -1,14 +1,14 @@
+// 1. Aligned exactly with C# Backend (1-indexed)
 export enum FinancialType {
-    CapEx = 0,
-    OpEx = 1
+    CapEx = 1,
+    OpEx = 2
 }
 
+// 2. Aligned exactly with C# Backend
 export enum MovementType {
-    Inbound = 0,
-    Outbound = 1,
-    Transfer = 2,
-    Audit = 3,
-    Disposal = 4
+    Entrada = 1,
+    Saida = 2,
+    Transferencia = 3
 }
 
 export enum ItemStatus {
@@ -20,29 +20,30 @@ export enum ItemStatus {
 }
 
 export interface Product {
-    id: number;
-    name: string;
-    brand: string;
-    model: string;
+    id: string; // CHANGED to string (Guid)
+    nome: string; // Match C# property
+    marca: string;
+    modelo: string;
     sku: string;
-    description: string;
-    minStockLevel: number;
-    type: FinancialType;
-    categoryId: number;
+    categoria: string;
+    controlaSerial: boolean; // THE SMART RULE ADDED
 }
 
 export interface Movement {
-    id: number;
-    inventoryItemId: number;
-    userId: number;
-    fromLocationId?: number;
-    toLocationId?: number;
-    type: MovementType;
-    invoiceNumber?: string;
-    vendorName?: string;
-    quantity: number;
-    notes: string;
-    occurredAt: string;
+    id: string; // CHANGED to string (Guid)
+    productId: string; // Match C# property
+    quantidade: number;
+    tipoMovimento: MovementType;
+    tipoFinanceiro: FinancialType;
+    localidade: string;
+    regiao?: string;
+    statusEquipamento?: string;
+    serialNumber?: string;
+    patrimonio?: string;
+    ticket?: string;
+    notaFiscal?: string;
+    observacao?: string;
+    dataMovimento: string; // ISO Date string
 }
 
 export interface Category {

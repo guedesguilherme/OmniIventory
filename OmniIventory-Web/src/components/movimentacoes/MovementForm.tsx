@@ -38,7 +38,7 @@ import {
     MovementFormValues,
 } from "@/lib/validations/movement";
 import { Product } from "@/types";
-import { getProducts, getLocations } from "@/services/mockApi";
+import { getProducts, getLocations } from "@/services/api";
 
 interface MovementFormProps {
     isTriage?: boolean;

@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { getLocations, getCategories } from "@/services/mockApi";
+import { getLocations, getCategories } from "@/services/api";
 
 export default async function AdminPage() {
     const userRole = 'Admin';
